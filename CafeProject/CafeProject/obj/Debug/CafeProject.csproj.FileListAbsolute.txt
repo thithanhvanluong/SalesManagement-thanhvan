@@ -1,0 +1,45 @@
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\CafeProject.csprojAssemblyReference.cache
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\MainWindow.g.cs
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\App.g.cs
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\CafeProject_MarkupCompile.cache
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\CafeProject_MarkupCompile.lref
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\MainWindow.baml
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\CafeProject.g.resources
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\CafeProject\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\CafeProject.csprojAssemblyReference.cache
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\MainWindow.g.cs
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\App.g.cs
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\CafeProject_MarkupCompile.cache
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\CafeProject_MarkupCompile.lref
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\MainWindow.baml
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\CafeProject.g.resources
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\16399\Documents\Visual Studio 2019\Code Snippets\Visual C#\SalesManagement\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\CafeProject.csprojAssemblyReference.cache
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\MainWindow.g.cs
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\App.g.cs
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\CafeProject_MarkupCompile.cache
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\CafeProject_MarkupCompile.lref
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\MainWindow.baml
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\CafeProject.g.resources
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\16399\Desktop\SalesManagement-thanhvan\CafeProject\CafeProject\obj\Debug\CafeProject.pdb
